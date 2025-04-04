@@ -1,6 +1,6 @@
 # ChessFi
 
-![ChessFi Logo](assets/logo.png)
+![ChessFi Logo](src/assets/logo.png)
 
 ## Play Chess. Bet Crypto. Win Big.
 
